@@ -1,5 +1,5 @@
 
-# Deploy to BSC testnet
+# Deploy to Polygon testnet
 
 ```shell
 cp .env.example .env
