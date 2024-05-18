@@ -1,6 +1,3 @@
-# Metafluence Token
-
-This project defined the Metafluence ERC20/BEP20 token.
 
 # Deploy to BSC testnet
 
@@ -10,7 +7,7 @@ cp .env.example .env
 # Set the PRIVATE_KEY value in the .env file. This will be the intial owner of the contract.
 
 # Deploy to testnet
-npx hardhat run ./scripts/deploy.ts --network bsc_testnet
+npx hardhat run ./scripts/deploy.ts --network matic_testnet
 ```
 
 # Deploy to BSC mainnet
